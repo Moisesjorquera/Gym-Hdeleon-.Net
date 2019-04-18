@@ -43,7 +43,7 @@ namespace Gimnasio.Membresias
             cmdNuevo.Click += new EventHandler(nuevo);
             cmdModificar.Click += new EventHandler(modificar);
             cmdDesabilitar.Click += new EventHandler(desabilita);
-            cmdAbilitar.Click += new EventHandler(abilita);
+            cmdHabilitar.Click += new EventHandler(habilita);
             cmdEliminar.Click += new EventHandler(elimina);
         }
 
